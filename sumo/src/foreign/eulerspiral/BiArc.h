@@ -30,6 +30,9 @@
 
 #include "points.h"
 #include "angles.h"
+#include "math.h"
+
+#define HUGE HUGE_VAL
 
 #define eA 0.0001   //Epsilon for angles
 #define eK 0.0001   //Epsilon for curvature
